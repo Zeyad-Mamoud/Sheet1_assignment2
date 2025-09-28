@@ -5,8 +5,10 @@ __pycache__/
 *.pyd
 .Python
 
-# Debug outputs
+# Debug outputs (exclude from repo but keep examples)
 debug_report.txt
+debug_snapshot_evidence.txt
+*.png
 
 # Virtual environments
 venv/
